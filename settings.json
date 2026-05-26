@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ziki_the_saver_bot",
+    "username": "Ziki_bot",
     "password": "",
     "type": "offline"
   },
@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "shaftal.123"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,17 +29,17 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 230,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "We all Love Ziki",
+        "Ziki Is The Goat",
+        "Ziki Is The Pvp God"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 5000,
+    "max-reconnect-delay": 12000
   },
   "movement": {
     "enabled": true,
